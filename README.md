@@ -24,6 +24,6 @@ To use Tweeter, follow these simple steps:
    Once the page loads in your browser, you can start adding or deleting posts and comments.
 
 
-### That's it! You're now ready to use Tweeter and interact with your posts and comments.
+#### That's it! You're now ready to use Tweeter and interact with your posts and comments.
 
 
