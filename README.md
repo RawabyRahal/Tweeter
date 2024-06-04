@@ -16,10 +16,9 @@ To use Tweeter, follow these simple steps:
    ```bash
    cd tweeter
 
-4. Open the HTML file:
-
-  Navigate to the public folder.
-  Open the index.html file in your preferred web browser.
+3. Open the HTML file:
+   Navigate to the public folder.
+   Open the index.html file in your preferred web browser.
 
 4. Start using Tweeter:
    Once the page loads in your browser, you can start adding or deleting posts and comments.
